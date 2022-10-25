@@ -4,7 +4,7 @@ This is a GUI application to compress a text file into gzip file and decode the 
 
 Used Java Swing and AWT to make the GUI of this application
 
-## How to run it
+## How to use it
 It is a simple application which contains three buttons and each button perform different functions.
 
 Click Upload button to choose the file you want to compress or decompress. Once the file is uploaded a small file icon will appear on the right side of Upload button.
